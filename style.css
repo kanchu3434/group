@@ -1,8 +1,7 @@
 body{
   margin: 0px;
   background-color: #f6f6f6;
-  font-family:https://fonts.googleapis.com/css2?family=Inter&display=swap;
-    
+  
 }
 
 .container{
@@ -11,6 +10,7 @@ body{
     border: 1px solid white;
    display:flex;
   justify-content: space-evenly;
+  background-color: white;
 }
 .child{
     height: 100px;
@@ -119,8 +119,9 @@ body{
       display: inline-block;
      }
      .top{
-      font-size: 50px;
-      font-weight: bold;
+      font-size: 54px;
+    font-weight: 700;
+    line-height: 65px;
      }
      .load{
       font-size: 20px;
@@ -370,23 +371,321 @@ body{
       .bs-t{
         width:100%;
       }
+      .sec-1{
+        height: 700px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+         background-color: white;
+        
+      }
+      .left{
+        height:100%;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        
+      }
+      .right{
+        height:100%;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+      }
+      .in{
+        margin-left: 0px;
+        padding-left: 0px;
+      }
+      .top{
+        width: 80px;
+        box-shadow: 0 5px 20px rgb(0 41 112 / 10%);
+        border-radius: 16px;
+        margin-bottom: 30px;
+    }
+    .que{
+      font-size: 54px;
+    font-weight: 700;
+    line-height: 65px;
+    
+}
+    .ans{
+      padding-top: 10px;
+    width: 475px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+  .arm{
+    width: 528px;
+    position: absolute;
+    top: 250px;
+    right: 0;
+}
+    .wr-o{
+      margin-left: 2px;
+    }
       
-      
-      
+     .ram{
+        width: 1150px;
+        height: 650px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        margin-left: 57px;
+        border: 2px solid white;
+         background-color: white;
+         margin-bottom: 20px;
+         margin-top: 55px;
+      }
+       .sham{
+         width: 50%;
+         height: 100;
+        justify-content: center;
+        align-items: center;
+         }
+          
+        .cam{
+         width: 50%;
+         height: 100%;
+        display: flex;
+         justify-content: flex-end;
+         padding-top:10px
+        }
+       
+       .postpaid{
+        height: 77px;
+       width: auto;
+        margin-left: 5px;
+}
+  .shop{
+     margin-left: 40px;
+  }
+   .more{    
+  background-color:#002E6E;
+  color: white;
+  padding: 15px 24px 15px 24px;
+  border-radius: 40px;
+  border: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-top: 30px;
+  font-size:15px ;
+ }
+ .more:hover{
+  cursor: pointer;
+  background-color: #00B9F1;
 
+  color:;
+  border:1px solid white;
+ }
+.bill{
+   margin-bottom: 50px;
+   width: 433px;
+}
+ .tpl{
+   height: 100%;
+   width: 540px;
+   display:block;
+   justify-content:space-between;
+   align-items: center;
+   border: 1px solid white;
+   display: inline-block;
+   margin-left: 30px;
+   border-radius: 10px;
+   background-color: white;
+ }
+ .ipl{
+  height: 100%;
+  width: 540px;
+  display:block;
+  justify-content:space-between;
+  align-items: center;
+  display: inline-block;
+  margin-right: 30px;
+  border-radius: 10px;
+  background-color: white;
 
+ }
+   .gpl{
+       height: 620px;
+       width: 100%;
+       display: flex;
+       justify-content:space-around;
+       align-items: center;
+       background-color:#f6f6f6; ;
+            margin-top: 55px;
+         
+   }
 
+ .opl{
+  width: 100%;
+  height: 50%;
+  display: block;
+  padding-left: 30px;
+ }
+ .cpl{
+  width: 100%;
+  height: 50%;
+  display: block;
+ }
+  .vpl{
+    
+    height: 300px;
+    margin-left: 40px;
 
+}
+  .sap{
+    width: 100%;
+    height: 800px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+     background-color: white;
+    margin-top: 100px;
+  }
+  .tap{
+    width: 60%;
+    height: 790px;
+    border-radius: 10px;
+    margin-left: 40px;
+     background-color: white;
+    
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
+ .rap{
+  width: 45%;
+  height: 790px;
+  border-radius: 10px;
+   background-color: white;
+   padding-top: 230px;
+   padding-left: 60px;
+  }
+ .pap{
+  margin-top:90px ;
+  padding-bottom: 12px;
+}
+ .cat{
+  width: 50%;
+    height: 790px;
+    border-radius: 10px;
+    margin-left: 40px;
+     background-color: white;
+    display: flex;
+    justify-content: center;
+ } 
+   .mat{
+    width: 50%;
+    height: 790px;
+    border-radius: 10px;
+    margin-left: 40px;
+     background-color: white;
+     display: flex;
+     justify-content: center;
+   }
+   .jap{
+    width: 100%;
+    height: 700px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+     background-color: white;
+    margin-top: 100px;
+  }
+   .tup{
+    width: 230px;
+    height:500px;
+    border-radius: 10px;
+    display: block;
+    justify-content: center;
+     background-color: white;
+  }
+   .cup{
+    width: 230px;
+    height:500px;
+    border-radius: 10px;
+    display: block;
+    justify-content: center;
+     background-color: white;
+   }
+   .mup{
+    width: 230px;
+    height:500px;
+    border-radius: 10px;
+    display: block;
+    justify-content: center;
+     background-color: white;
+   } 
+   .rup{
+    width: 230px;
+    height:500px;
+    border-radius: 10px;
+    display: block;
+    justify-content: center;
+     background-color: white;
+  
+   }
+   .job{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+  
+   }
+   .cob{
+     display: block;
+     justify-content: center;
+     align-items: center;
+     height: 350px;
+     width: 270px;
+     
+     border-radius: 15px;
+   }
+   .tob{
+    display: block;
+     justify-content: center;
+     align-items:center ;
+     height: 300px;
+     width: 200px;
+    border-radius: 15px;
+    border: 10px solid #00B9F1;
+    background-color: #00B9F1;
+   }
+   .mob{
+    display: block;
+    justify-content: center;
+    align-items:center ;
+    height: 300px;
+    width: 200px;
+    margin-bottom:0px ;
+    border-radius: 15px;
+    border: 10px solid #00B9F1;
+    background-color: #00B9F1;
+   }
+   .sob{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 200px;
+    border-radius: 15px;
+    border: 10px solid #00B9F1;
+    background-color: #00B9F1;
+   }
+   .dob{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 200px;
+    border-radius: 15px;
+    border: 10px solid #00B9F1;
+    background-color: #00B9F1;
+   }
