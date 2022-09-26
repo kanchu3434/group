@@ -689,3 +689,33 @@ body{
     border: 10px solid #00B9F1;
     background-color: #00B9F1;
    }
+   .sob:hover{
+    cursor: pointer;
+    background-color:#002e6e;
+    transition: .4s;
+    border: 10px solid #002e6e;
+   }
+   .mob:hover{
+    cursor: pointer;
+    background-color:#002e6e;
+    transition: .4s;
+    border: 10px solid #002e6e;
+   }
+   .tob:hover{
+    cursor: pointer;
+    background-color:#002e6e;
+    transition: .4s;
+    border: 10px solid #002e6e;
+   }
+   .cob:hover{
+    cursor: pointer;
+    background-color:#002e6e;
+    transition: .4s;
+    border: 10px solid #002e6e;
+   }
+   .dob:hover{
+    cursor: pointer;
+    background-color:#002e6e;
+    transition: .4s;
+    border: 10px solid #002e6e;
+   }
